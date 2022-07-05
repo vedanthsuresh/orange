@@ -1,0 +1,123 @@
+body {
+    font-family: 'Comfortaa', cursive;
+    background-color: gray;
+}
+
+.cool-nav {
+    background-color: #313132;
+    height: 50px;
+}
+
+.link {
+    color: white;
+    margin-right: 50px;
+}
+
+.first-link {
+    color: white;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+
+
+.logo {
+    width: 20px;
+    margin-bottom: 11px;
+    margin-left: 10px;
+}
+
+.search-input {
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 50px;
+    width: 50%;
+}
+
+.search {
+    width: 20px;
+
+}
+
+.search-button {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+@media (max-width:  1000px) {
+    .first-link {
+        margin-left: 0px;
+    }
+
+    .search {
+        width: 50px;
+    }
+
+    .search-input {
+        margin-top: 50px;
+        margin-left: 25%;
+        margin-right: 25%;
+        margin-bottom: 50px;
+        width: 50%;
+    }
+}
+
+.juice-img {
+    width: 30%;
+}
+
+.topic {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-weight: bold;
+    margin-bottom: 50px;
+}
+
+.a-topic {
+    text-decoration: none;
+}
+
+.par {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-top: 50px;
+}
+
+.juice {
+    background-color: #F6B31E;
+    padding: 50px;
+    text-align: center;
+}
+
+.citruscleaner-img, .juice-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.drypeels-img {
+    width: 40%;
+}
+
+.citruscleaner {
+    background-color: black;
+    padding: 50px;
+    text-align: center;
+}
+
+.drypeels {
+    background-color: #F7701E;
+    padding: 150px;
+    text-align: center;
+}
+
+.freshfruit {
+    background-color: #F6B26B;
+    padding: 150px;
+    text-align: center;
+}
+
+.orangepeels-img {
+    width: 500px;
+}
